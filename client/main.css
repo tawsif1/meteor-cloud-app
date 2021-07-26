@@ -1,0 +1,15 @@
+body {
+  margin:0;
+
+  font-family: sans-serif;
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+button{
+  cursor: pointer
+}
